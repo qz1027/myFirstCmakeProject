@@ -15,8 +15,13 @@ void test01(){
 
 }
 
+void test02(){
+    cout << "Hello world!" << endl;
+}
+
 int main(){
     test01();
+    test02();
 
 
     return 0;
